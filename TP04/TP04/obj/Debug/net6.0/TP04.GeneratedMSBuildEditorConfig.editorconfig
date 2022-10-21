@@ -15,6 +15,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Acer Aspire 5\Codigos\TallerDeLenguajesII\tl2-tp4-2022-noseqpo\TP04\TP04
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Acer Aspire 5/Codigos/TallerDeLenguajesII/tl2-tp4-2022-noseqpo/TP04/TP04/Views/Cadete/AddCadete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FkZXRlXEFkZENhZGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Acer Aspire 5/Codigos/TallerDeLenguajesII/tl2-tp4-2022-noseqpo/TP04/TP04/Views/Cadete/DelCadete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FkZXRlXERlbENhZGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Acer Aspire 5/Codigos/TallerDeLenguajesII/tl2-tp4-2022-noseqpo/TP04/TP04/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

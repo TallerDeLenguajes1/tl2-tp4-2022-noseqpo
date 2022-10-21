@@ -25,8 +25,11 @@ namespace TP04.Controllers
 
         public IActionResult Lista()
         {
+
             return View();
         }
+
+        
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
